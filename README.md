@@ -22,6 +22,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaraFreitas-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraFreitas-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraFreitas-dev&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraFreitas-dev&hide_progress=true&theme=material-palenight)](https://github.com/SaraFreitas-dev/github-readme-stats)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaraFreitas-dev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
