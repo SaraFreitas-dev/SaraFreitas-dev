@@ -9,17 +9,19 @@
 💬 Ask me about the projects I'm working on <br>
 ⚡ Thoughts: I believe that being creative and continuously learning is the key to success in any field!<br>
 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351914572533)
-
+<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarafreitasdev) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin,flutter&perline=2)](https://www.linkedin.com/in/sarafreitasdev/)
+[![My Skills](https://skillicons.dev/icons?i=gitlab,flutter&perline=2)](https://www.gitlab.com/sfontes94)
 
-
+<br>
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java)](https://skillicons.dev)
 
+<br>
 ## 💻 Tech Stack:
-![CSS3]![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
@@ -37,6 +39,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
+<br>
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraFreitas-dev&show_icons=true&theme=material-palenight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraFreitas-dev&hide_progress=true&theme=material-palenight)](https://github.com/SaraFreitas-dev/github-readme-stats)
@@ -45,5 +48,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaraFreitas-dev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 -->
+<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
