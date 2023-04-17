@@ -2,9 +2,9 @@
   <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
   <h1 align="center">  My name is Sara Freitas ⭐️ </h1> 
 </p>
- ```md
+
   ![snake animation](https://github.com/<SaraFreitas-dev>/<SaraFreitas-dev>/blob/output/github-contribution-grid-snake2.svg)
-  ```
+  
 
 ## 💫 About Me:
 🔭 Recently completed a coding bootcamp at <AcademiadeCódigo_><br>
