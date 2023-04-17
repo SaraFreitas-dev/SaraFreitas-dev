@@ -49,14 +49,18 @@
   <br>
 </div>
 
+<div align="center">
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraFreitas-dev&show_icons=true&theme=material-palenight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraFreitas-dev&hide_progress=true&theme=material-palenight)](https://github.com/SaraFreitas-dev/github-readme-stats)
+</div>
 
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaraFreitas-dev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 -->
 
+<div align="center">
 ### 💬 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
