@@ -1,8 +1,6 @@
 <p align="center">
-  <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
-  <h1 align="center">  My name is Sara Freitas ⭐️ </h1> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=2000&color=A22CEE&background=49187F00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there%2C+welcome+to+my+profile!+%F0%9F%91%8B;My+name+is+Sara+Freitas+%E2%AD%90%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
-
 
 ## 💫 About Me:
 🔭 Recently completed a coding bootcamp at <AcademiadeCódigo_><br>
@@ -11,9 +9,11 @@
 ⚡ Thoughts: I believe that being creative and continuously learning is the key to success in any field!<br>
 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351914572533)
 
+
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarafreitasdev/)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://www.gitlab.com/sfontes94)
+
 
 ## 📚 Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java)](https://skillicons.dev)
@@ -41,6 +41,8 @@
 
 
 <div align="center">
+  <br>
+  <br>
   <h2>🐍 Contribution Grid 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
@@ -49,18 +51,17 @@
   <br>
 </div>
 
-<div align="center">
+
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraFreitas-dev&show_icons=true&theme=material-palenight)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraFreitas-dev&hide_progress=true&theme=material-palenight)](https://github.com/SaraFreitas-dev/github-readme-stats)
-</div>
+
 
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaraFreitas-dev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-<div align="center">
 ### 💬 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+
