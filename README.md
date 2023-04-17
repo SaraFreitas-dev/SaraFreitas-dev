@@ -1,14 +1,14 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=2000&color=A22CEE&background=49187F00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there%2C+welcome+to+my+profile!+%F0%9F%91%8B;My+name+is+Sara+Freitas+%E2%AD%90%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9D42F6&center=true&vCenter=true&width=735&lines=Hi+there%2C+welcome+to+my+profile+!+%F0%9F%91%8B;I'm+Sara+Freitas+%F0%9F%91%A9" alt="Typing SVG" /></a>
 </p>
-
+<div align="center"> 
 ## 💫 About Me:
 🔭 Recently completed a coding bootcamp at <AcademiadeCódigo_><br>
 🌱 Junior Full Stack Developer eager to learn and grow<br>👯 Open to collaborating on creative projects<br>
 💬 Ask me about the projects I'm working on <br>
 ⚡ Thoughts: I believe that being creative and continuously learning is the key to success in any field!<br>
 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351914572533)
-
+</div>
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sarafreitasdev/)
