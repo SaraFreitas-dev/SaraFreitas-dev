@@ -1,7 +1,7 @@
-### Hi there 👋
-
-<!--
-**SaraFreitas-dev/SaraFreitas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h1 align="center">  Hi there, welcome to my profile! 👋</h1>
+  <h1 align="center">  My name is Sara Freitas ⭐️ </h1> 
+</p>
 
 # 💫 About Me:
 🔭 Recently completed a coding bootcamp at <AcademiadeCódigo_><br>🌱 Junior Full Stack Developer eager to learn and grow<br>👯 Open to collaborating on creative projects<br>💬 Ask me about the projects I'm working on <br>⚡ Thoughts: I believe that being creative and continuously learning is the key to success in any field!
@@ -22,5 +22,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
