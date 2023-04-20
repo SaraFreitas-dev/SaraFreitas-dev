@@ -37,13 +37,15 @@
 <img src="https://skillicons.dev/icons?i=tailwind,vim&perline=2"/>
 <img src="https://skillicons.dev/icons?i=ps,regex,spring&perline=3"/>
 <img src="https://skillicons.dev/icons?i=idea,linux,vscode,nodejs&perline=4"/>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,hibernate&perline=5"/>
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" style="border-radius: 100%; height: 45px;">
-  <img src="https://adashen.gallerycdn.vsassets.io/extensions/adashen/vscode-tomcat/0.12.1/1635499457155/Microsoft.VisualStudio.Services.Icons.Default" style="border-radius: 100%; height: 45px; width: 45px;">
-  <img src="https://skills.thijs.gg/icons?i=figma,git,jquery&theme=dark" />
+<div>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,hibernate" style="display: inline-block;">
+  <img src="https://www.thymeleaf.org/doc/images/thymeleaf.png" style="border-radius: 100%; height: 45px; display: inline-block;">
+  <img src="https://adashen.gallerycdn.vsassets.io/extensions/adashen/vscode-tomcat/0.12.1/1635499457155/Microsoft.VisualStudio.Services.Icons.Default" style="border-radius: 100%; height: 45px; width: 45px; display: inline-block;">
+  <img src="https://skills.thijs.gg/icons?i=figma,git,jquery&theme=dark" style="display: inline-block;">
 </div>
+
+
 
 
 
