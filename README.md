@@ -46,6 +46,7 @@
 
 ## 📚 Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java)](https://skillicons.dev)
+<ing src="https://skillicons.dev/icons?i=js,html,css,mysql,java,py"/>
 <br>
 <br>
 
@@ -68,23 +69,24 @@
 
 
 
-<br>
 <div align="center">
   <br>
   <br>
   <h2>🐍 Contribution Grid 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
   <br>
   <br>
   <br>
 </div>
 
 
+
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SaraFreitas-dev&show_icons=true&theme=material-palenight" alt="SaraFreitas-dev's GitHub Stats" />
   <br />
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraFreitas-dev&hide_progress=true&theme=material-palenight" alt="SaraFreitas-dev's Top Languages"/>
 </div>
 
@@ -95,7 +97,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SaraFreitas-dev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-
+<br/>
 <div align="center">
   <h3>💬 Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
