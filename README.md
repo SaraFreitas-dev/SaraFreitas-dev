@@ -27,6 +27,22 @@
 <br>
 <br>
 
+## 🔎 Categories
+
+- [🐍 Python](https://github.com/stars/SaraFreitas-dev/lists/python)
+- [🕹️ Games](https://github.com/stars/SaraFreitas-dev/lists/games)
+- [🗎 HTML](https://github.com/stars/SaraFreitas-dev/lists/html)
+- [📦 JavaScript](https://github.com/stars/SaraFreitas-dev/lists/javascript)
+- [🖌️ CSS](https://github.com/stars/SaraFreitas-dev/lists/css)
+- [🔗 Website](https://github.com/stars/SaraFreitas-dev/lists/website)
+- [🤖 Machine Learning](https://github.com/stars/SaraFreitas-dev/lists/machine-learning)
+- [📚 Exercises](https://github.com/stars/SaraFreitas-dev/lists/exercises)
+- [🐉 Pygame](https://github.com/stars/SaraFreitas-dev/lists/pygame)
+- [⚛️ React](https://github.com/stars/SaraFreitas-dev/lists/react)
+- [🎨 Figma](https://github.com/stars/SaraFreitas-dev/lists/figma)
+- [📊 SQL](https://github.com/stars/SaraFreitas-dev/lists/sql)
+- [☕ Java](https://github.com/stars/SaraFreitas-dev/lists/java)
+
 
 ## 📚 Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java)](https://skillicons.dev)
