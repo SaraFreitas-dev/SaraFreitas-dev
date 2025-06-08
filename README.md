@@ -29,21 +29,36 @@ Includes terminal examples, formulas, and full instructions, as well as their so
 <br>  
 <br>
 
-## 🔎 Categories
+## 🔎 Project Categories – by Languages
 
-- [🐍 Python](https://github.com/stars/SaraFreitas-dev/lists/python)
-- [🕹️ Games](https://github.com/stars/SaraFreitas-dev/lists/games)
-- [🗎 HTML](https://github.com/stars/SaraFreitas-dev/lists/html)
-- [📦 JavaScript](https://github.com/stars/SaraFreitas-dev/lists/javascript)
-- [🖌️ CSS](https://github.com/stars/SaraFreitas-dev/lists/css)
-- [🔗 Website](https://github.com/stars/SaraFreitas-dev/lists/website)
-- [🤖 Machine Learning](https://github.com/stars/SaraFreitas-dev/lists/machine-learning)
-- [📚 Exercises](https://github.com/stars/SaraFreitas-dev/lists/exercises)
-- [🐉 Pygame](https://github.com/stars/SaraFreitas-dev/lists/pygame)
-- [⚛️ React](https://github.com/stars/SaraFreitas-dev/lists/react)
-- [🎨 Figma](https://github.com/stars/SaraFreitas-dev/lists/figma)
-- [📊 SQL](https://github.com/stars/SaraFreitas-dev/lists/sql)
-- [☕ Java](https://github.com/stars/SaraFreitas-dev/lists/java)
+<table>
+  <tr>
+    <td align="center">🔗<br><a href="https://github.com/stars/SaraFreitas-dev/lists/python">Python</a></td>
+    <td align="center">🎮<br><a href="https://github.com/stars/SaraFreitas-dev/lists/games">Games</a></td>
+    <td align="center">🗎<br><a href="https://github.com/stars/SaraFreitas-dev/lists/html">HTML</a></td>
+  </tr>
+  <tr>
+    <td align="center">📦<br><a href="https://github.com/stars/SaraFreitas-dev/lists/javascript">JavaScript</a></td>
+    <td align="center">🖌️<br><a href="https://github.com/stars/SaraFreitas-dev/lists/css">CSS</a></td>
+    <td align="center">🔗<br><a href="https://github.com/stars/SaraFreitas-dev/lists/website">Website</a></td>
+  </tr>
+  <tr>
+    <td align="center">🤖<br><a href="https://github.com/stars/SaraFreitas-dev/lists/machine-learning">Machine Learning</a></td>
+    <td align="center">📚<br><a href="https://github.com/stars/SaraFreitas-dev/lists/exercises">Exercises</a></td>
+    <td align="center">🐍<br><a href="https://github.com/stars/SaraFreitas-dev/lists/pygame">Pygame</a></td>
+  </tr>
+  <tr>
+    <td align="center">⚛️<br><a href="https://github.com/stars/SaraFreitas-dev/lists/react">React</a></td>
+    <td align="center">🎨<br><a href="https://github.com/stars/SaraFreitas-dev/lists/figma">Figma</a></td>
+    <td align="center">📊<br><a href="https://github.com/stars/SaraFreitas-dev/lists/sql">SQL</a></td>
+  </tr>
+  <tr>
+    <td align="center">☕<br><a href="https://github.com/stars/SaraFreitas-dev/lists/java">Java</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
   
 ## 🌐 Socials:
