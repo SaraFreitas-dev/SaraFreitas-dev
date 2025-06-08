@@ -54,7 +54,7 @@ Includes terminal examples, formulas, and full instructions, as well as their so
   </tr>
   <tr>
     <td align="center">☕<br><a href="https://github.com/stars/SaraFreitas-dev/lists/java">Java</a></td>
-    <td></td>
+    <td align="center">💾<br><a href="https://github.com/stars/SaraFreitas-dev/lists/c">C Projects</a></td>
     <td></td>
   </tr>
 </table>
