@@ -21,7 +21,7 @@
 <br>  
 <br>
 
-### 🧠 C Projects for Beginners
+## 🧠 C Projects for Beginners
 
 A series of simple C projects I created to help beginners learn by building.  
 Includes terminal examples, formulas, and full instructions, as well as their solutions.  
