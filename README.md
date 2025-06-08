@@ -21,6 +21,14 @@
 <br>  
 <br>
 
+### 🧠 C Projects for Beginners
+
+A series of simple C projects I created to help beginners learn by building.  
+Includes terminal examples, formulas, and full instructions, as well as their solutions.  
+➡️ [View the list](https://github.com/stars/SaraFreitas-dev/lists/c-projects-for-beginners)
+<br>  
+<br>
+
 ## 🔎 Categories
 
 - [🐍 Python](https://github.com/stars/SaraFreitas-dev/lists/python)
