@@ -29,7 +29,7 @@ Includes terminal examples, formulas, and full instructions, as well as their so
 <br>  
 <br>
 
-## 🔎 Project Categories – by Languages
+## 🔎 Project Categories 
 
 <table>
   <tr>
