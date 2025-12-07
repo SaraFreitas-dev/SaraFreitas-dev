@@ -14,11 +14,7 @@
 👩‍💻 Working for HN Services and Natixis in Oporto, Portugal<br>
 🌱 Junior Full Stack Developer eager to learn and grow<br>
 👯 Open to collaborating on creative projects<br>
-💬 Ask me about the projects I'm working on <br>
-⚡ Thoughts: I believe that being creative and continuously learning is the key to success in any field!<br>
-📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351914572533)<br>
-🚧💻Still under construction, but you can check out my Portfolio Website [here](https://sarafreitas-dev.github.io/portfolioWebsite/src/).
-<br>  
+📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351914572533)
 <br>
 
 ## 🧠 C Projects for Beginners
