@@ -53,7 +53,7 @@ Includes terminal examples, formulas, and full instructions, as well as their so
     <td align="center">☕<br><a href="https://github.com/stars/SaraFreitas-dev/lists/java">Java</a></td>
     <td align="center">💾<br><a href="https://github.com/stars/SaraFreitas-dev/lists/c">C Projects</a></td>
     <td align="center">🎓<br><a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">42 School</a></td>
-    <td></td>
+    <td>
   </tr>
 </table>
 
