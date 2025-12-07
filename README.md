@@ -16,6 +16,7 @@
 👯 Open to collaborating on creative projects<br>
 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351914572533)
 <br>
+<br>
 
 ## 🧠 C Projects for Beginners
 
