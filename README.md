@@ -10,7 +10,7 @@
 
 
 ## 💫 About Me: 
-🔭 Recently completed a coding bootcamp at <AcademiadeCódigo_><br>
+🔭 42 Student<br>
 👩‍💻 Working for HN Services and Natixis in Oporto, Portugal<br>
 🌱 Junior Full Stack Developer eager to learn and grow<br>
 👯 Open to collaborating on creative projects<br>
