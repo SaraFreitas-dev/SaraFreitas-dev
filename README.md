@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Sara+Freitas;42+School+Student;Python+%7C+C+%7C+MLX+%7C+Algorithms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Sara+Freitas;42+School+Student" />
 </p>
 
 <p align="center">
@@ -49,25 +49,109 @@ A collection of beginner-friendly C projects with:
 
 # 🔎 Repository Categories
 
-<p align="center">
+# 🔎 Repository Categories
 
-| 🎓 | 🐍 | 🎮 |
-|---|---|---|
-| [42 School](https://github.com/stars/SaraFreitas-dev/lists/42-school) | [Python](https://github.com/stars/SaraFreitas-dev/lists/python) | [Games](https://github.com/stars/SaraFreitas-dev/lists/games) |
+<table align="center">
+<tr>
 
-| 💾 | ⚛️ | ☕ |
-|---|---|---|
-| [C](https://github.com/stars/SaraFreitas-dev/lists/c) | [React](https://github.com/stars/SaraFreitas-dev/lists/react) | [Java](https://github.com/stars/SaraFreitas-dev/lists/java) |
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="45"/><br><br>
+<b>42 School</b>
+</a>
+</td>
 
-| 🌐 | 🎨 | 📊 |
-|---|---|---|
-| [Website](https://github.com/stars/SaraFreitas-dev/lists/website) | [Figma](https://github.com/stars/SaraFreitas-dev/lists/figma) | [SQL](https://github.com/stars/SaraFreitas-dev/lists/sql) |
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/python">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br><br>
+<b>Python</b>
+</a>
+</td>
 
-| 🤖 | 🧪 | 🐉 |
-|---|---|---|
-| [Machine Learning](https://github.com/stars/SaraFreitas-dev/lists/machine-learning) | [Exercises](https://github.com/stars/SaraFreitas-dev/lists/exercises) | [Pygame](https://github.com/stars/SaraFreitas-dev/lists/pygame) |
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/games">
+<img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="45"/><br><br>
+<b>Games</b>
+</a>
+</td>
 
-</p>
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/c">
+<img src="https://skillicons.dev/icons?i=c" width="45"/><br><br>
+<b>C</b>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/react">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br><br>
+<b>React</b>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/java">
+<img src="https://skillicons.dev/icons?i=java" width="45"/><br><br>
+<b>Java</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/website">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="45"/><br><br>
+<b>Website</b>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/figma">
+<img src="https://skillicons.dev/icons?i=figma" width="45"/><br><br>
+<b>Figma</b>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/sql">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><br>
+<b>SQL</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/machine-learning">
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="45"/><br><br>
+<b>Machine Learning</b>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/exercises">
+<img src="https://cdn-icons-png.flaticon.com/512/201/201623.png" width="45"/><br><br>
+<b>Exercises</b>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/pygame">
+<img src="https://cdn-icons-png.flaticon.com/512/13/13973.png" width="45"/><br><br>
+<b>Pygame</b>
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
