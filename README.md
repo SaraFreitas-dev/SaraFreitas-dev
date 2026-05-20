@@ -49,8 +49,6 @@ A collection of beginner-friendly C projects with:
 
 # 🔎 Repository Categories
 
-# 🔎 Repository Categories
-
 <table align="center">
 <tr>
 
@@ -70,7 +68,7 @@ A collection of beginner-friendly C projects with:
 
 <td align="center" width="220">
 <a href="https://github.com/stars/SaraFreitas-dev/lists/games">
-<img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="45"/><br><br>
+<img src="https://github.com/user-attachments/assets/c99a1fbe-ae29-4ad8-a400-804273a121fb" width="45"/><br><br>
 <b>Games</b>
 </a>
 </td>
@@ -106,7 +104,7 @@ A collection of beginner-friendly C projects with:
 
 <td align="center" width="220">
 <a href="https://github.com/stars/SaraFreitas-dev/lists/website">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="45"/><br><br>
+<img src="https://github.com/user-attachments/assets/345596e7-e53e-47fc-aeaf-7156e9c73908" width="45"/><br><br>
 <b>Website</b>
 </a>
 </td>
@@ -145,7 +143,7 @@ A collection of beginner-friendly C projects with:
 
 <td align="center" width="220">
 <a href="https://github.com/stars/SaraFreitas-dev/lists/pygame">
-<img src="https://cdn-icons-png.flaticon.com/512/13/13973.png" width="45"/><br><br>
+<img src="https://github.com/user-attachments/assets/007edb72-7e0d-4d68-92f4-96f612dfe4d4" width="45"/><br><br>
 <b>Pygame</b>
 </a>
 </td>
