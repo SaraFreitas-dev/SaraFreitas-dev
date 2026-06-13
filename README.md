@@ -25,14 +25,27 @@
 
 ## 🎓 42 School
 
-Projects and documentation from my journey at 42 School, mainly focused on C, Python, algorithms, graphics and tooling.
+Click any icon below to explore my projects, documentation, notes, and learning resources.
 
-| Folder | Content |
-|---|---|
-| 📑 [42 Documentation](https://github.com/stars/SaraFreitas-dev/lists/42-documentation) | Notes and explanations about Python, MiniLibX, Makefiles, flake8, mypy and debugging |
-| 🎓 [42 School](https://github.com/stars/SaraFreitas-dev/lists/42-school) | Main 42 projects and school-related repositories |
-| 🐍 [Python](https://github.com/stars/SaraFreitas-dev/lists/python) | Python projects, exercises, parsers, algorithms and graphics |
-| 💾 [C](https://github.com/stars/SaraFreitas-dev/lists/c) | C projects, low-level programming and 42 foundations |
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation">
+    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/42_documentation.png" width="170" alt="42 Documentation"/>
+  </a>
+
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
+    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/42_projects.png" width="170" alt="42 School Projects"/>
+  </a>
+
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/python">
+    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/python_projects.png" width="170" alt="Python Projects"/>
+  </a>
+
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/c">
+    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/c_projects.png" width="170" alt="C Projects"/>
+  </a>
+</p>
+
+---
 
 ## 😎 C Projects For Beginners
 
