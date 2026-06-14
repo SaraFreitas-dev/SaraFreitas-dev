@@ -17,7 +17,7 @@
 - 📚 Building educational repositories and documentation projects  
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfontes94@gmail.com)](mailto:sfontes94@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarafreitasdev/)](https://www.linkedin.com/in/sarafreitasdev/)
 
-
+ 
 ---
 
 
