@@ -46,19 +46,6 @@ Click any icon below to explore my projects, documentation, notes, and learning 
 
 ---
 
-## 😎 C Projects For Beginners
-
-A collection of beginner-friendly C projects with:
-- explanations
-- exercises
-- formulas
-- terminal examples
-- solutions
-
-➡️ https://github.com/stars/SaraFreitas-dev/lists/c-projects-for-beginners
-
----
-
 # 🔎 Repository Categories
 
 <table align="center">
