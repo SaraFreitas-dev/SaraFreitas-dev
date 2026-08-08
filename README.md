@@ -32,7 +32,7 @@ Click any icon below to explore my projects, documentation, notes, and learning 
   </a>
 
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
-    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode--solutions/main/icones/42_projects.png" width="170" alt="42 School Projects"/>
+    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/42_projects.png" width="170" alt="42 School Projects"/>
   </a>
 
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-python">
@@ -165,6 +165,16 @@ Click any icon below to explore my projects, documentation, notes, and learning 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=SaraFreitas-dev&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+
 
 ---
 
