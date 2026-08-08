@@ -32,10 +32,10 @@ Click any icon below to explore my projects, documentation, notes, and learning 
   </a>
 
   <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
-    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/42_projects.png" width="170" alt="42 School Projects"/>
+    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode--solutions/main/icones/42_projects.png" width="170" alt="42 School Projects"/>
   </a>
 
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/python">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-python">
     <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/python_projects.png" width="170" alt="Python Projects"/>
   </a>
 
@@ -59,7 +59,7 @@ Click any icon below to explore my projects, documentation, notes, and learning 
 </td>
 
 <td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/42-python">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/python">
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br><br>
 <b>Python</b>
 </a>
