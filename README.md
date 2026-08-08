@@ -59,7 +59,7 @@ Click any icon below to explore my projects, documentation, notes, and learning 
 </td>
 
 <td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/python">
+<a href="https://github.com/stars/SaraFreitas-dev/lists/42-python">
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br><br>
 <b>Python</b>
 </a>
