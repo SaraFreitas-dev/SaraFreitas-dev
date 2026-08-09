@@ -39,7 +39,7 @@ Click any icon below to explore my projects, documentation, notes, and learning 
     <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/python_projects.png" width="170" alt="Python Projects"/>
   </a>
 
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/c">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-c">
     <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/c_projects.png" width="170" alt="C Projects"/>
   </a>
 </p>
