@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-- 🎓 Student at 42 School  
+- 🎓 Student at 42 School (intra user: sarfreit)
 - 💻 Working with Mainframe and Control-M at HN Services / Natixis  
 - 🐍 Currently focused on C and Python
 - 📚 Building educational repositories and documentation projects  
