@@ -30,28 +30,17 @@
 ---
 
 
-# 🧠 Featured Repositories
-
 ## 🎓 42 School
 
-Click any icon below to explore my projects, documentation, notes, and learning resources.
+<p align="center"><sub>My journey through the 42 Common Core — projects, docs and notes</sub></p>
 
 <p align="center">
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation">
-    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/42_documentation.png" width="170" alt="42 Documentation"/>
-  </a>
-
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
-    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/42_projects.png" width="170" alt="42 School Projects"/>
-  </a>
-
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-python">
-    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/python_projects.png" width="170" alt="Python Projects"/>
-  </a>
-
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-c">
-    <img src="https://raw.githubusercontent.com/SaraFreitas-dev/leetcode-python-solutions/main/icones/c_projects.png" width="170" alt="C Projects"/>
-  </a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school"><img width="49%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:6b3fa0&height=110&text=📂%2042%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=All%20my%20Common%20Core%20projects&descSize=14&descAlignY=68"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation"><img width="49%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6b3fa0,100:1a1b27&height=110&text=📑%20Documentation&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=Study%20notes%20and%20Exam%20Shell%20practice&descSize=14&descAlignY=68"/></a>
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-c"><img width="49%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:1a1b27,100:6b3fa0&height=110&text=💾%2042%20C&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=C%20projects%20from%20the%20Common%20Core&descSize=14&descAlignY=68"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-python"><img width="49%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:6b3fa0,100:1a1b27&height=110&text=🐍%2042%20Python&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=Python%20projects%20from%20the%20Common%20Core&descSize=14&descAlignY=68"/></a>
+</p>
 </p>
 
 ---
