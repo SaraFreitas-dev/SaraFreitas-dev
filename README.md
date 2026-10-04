@@ -77,6 +77,8 @@
 <p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/games"><img src="https://img.shields.io/badge/Games-1a1b27?style=for-the-badge&logo=godotengine&logoColor=C792EA"/></a>
   <a href="https://github.com/stars/SaraFreitas-dev/lists/pygame"><img src="https://img.shields.io/badge/Pygame-1a1b27?style=for-the-badge&logo=python&logoColor=C792EA"/></a>
+    <a href="https://github.com/stars/SaraFreitas-dev/lists/godot"><img src="https://img.shields.io/badge/Godot-1a1b27?style=for-the-badge&logo=godotengine&logoColor=C792EA"/></a>
+
 </p>
 
 <p align="center"><b>📚 Learning & Practice</b></p>
