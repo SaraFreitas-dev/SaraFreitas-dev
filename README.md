@@ -48,107 +48,44 @@ Click any icon below to explore my projects, documentation, notes, and learning 
 
 # 🔎 Repository Categories
 
-<table align="center">
-<tr>
+<p align="center"><b>🎓 42 School</b></p>
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-school"><img src="https://img.shields.io/badge/42%20School-1a1b27?style=for-the-badge&logo=42&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-documentation"><img src="https://img.shields.io/badge/42%20Documentation-1a1b27?style=for-the-badge&logo=readthedocs&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-c"><img src="https://img.shields.io/badge/42%20C-1a1b27?style=for-the-badge&logo=c&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/42-python"><img src="https://img.shields.io/badge/42%20Python-1a1b27?style=for-the-badge&logo=python&logoColor=C792EA"/></a>
+</p>
 
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/42-school">
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="45"/><br><br>
-<b>42 School</b>
-</a>
-</td>
+<p align="center"><b>💻 Languages</b></p>
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/c"><img src="https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/python"><img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/javascript"><img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/java"><img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/sql"><img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=C792EA"/></a>
+</p>
 
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/python">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br><br>
-<b>Python</b>
-</a>
-</td>
+<p align="center"><b>🌐 Web & Design</b></p>
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/website"><img src="https://img.shields.io/badge/Websites-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/html"><img src="https://img.shields.io/badge/HTML-1a1b27?style=for-the-badge&logo=html5&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/css"><img src="https://img.shields.io/badge/CSS-1a1b27?style=for-the-badge&logo=css&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/react"><img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/figma"><img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=C792EA"/></a>
+</p>
 
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/games">
-<img src="https://github.com/user-attachments/assets/c99a1fbe-ae29-4ad8-a400-804273a121fb" width="45"/><br><br>
-<b>Games</b>
-</a>
-</td>
+<p align="center"><b>🎮 Games</b></p>
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/games"><img src="https://img.shields.io/badge/Games-1a1b27?style=for-the-badge&logo=godotengine&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/pygame"><img src="https://img.shields.io/badge/Pygame-1a1b27?style=for-the-badge&logo=python&logoColor=C792EA"/></a>
+</p>
 
-</tr>
-
-<tr>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/c">
-<img src="https://skillicons.dev/icons?i=c" width="45"/><br><br>
-<b>C</b>
-</a>
-</td>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/react">
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br><br>
-<b>React</b>
-</a>
-</td>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/java">
-<img src="https://skillicons.dev/icons?i=java" width="45"/><br><br>
-<b>Java</b>
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/website">
-<img src="https://github.com/user-attachments/assets/345596e7-e53e-47fc-aeaf-7156e9c73908" width="45"/><br><br>
-<b>Website</b>
-</a>
-</td>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/figma">
-<img src="https://skillicons.dev/icons?i=figma" width="45"/><br><br>
-<b>Figma</b>
-</a>
-</td>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/sql">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br><br>
-<b>SQL</b>
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/machine-learning">
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="45"/><br><br>
-<b>Machine Learning</b>
-</a>
-</td>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/exercises">
-<img src="https://cdn-icons-png.flaticon.com/512/201/201623.png" width="45"/><br><br>
-<b>Exercises</b>
-</a>
-</td>
-
-<td align="center" width="220">
-<a href="https://github.com/stars/SaraFreitas-dev/lists/pygame">
-<img src="https://github.com/user-attachments/assets/007edb72-7e0d-4d68-92f4-96f612dfe4d4" width="45"/><br><br>
-<b>Pygame</b>
-</a>
-</td>
-
-</tr>
-</table>
+<p align="center"><b>📚 Learning & Practice</b></p>
+<p align="center">
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/exercises"><img src="https://img.shields.io/badge/Exercises-1a1b27?style=for-the-badge&logo=leetcode&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/c-projects-for-beginners"><img src="https://img.shields.io/badge/C%20Projects%20for%20Beginners-1a1b27?style=for-the-badge&logo=c&logoColor=C792EA"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/machine-learning"><img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=C792EA"/></a>
+</p>
 
 ---
 
