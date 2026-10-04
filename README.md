@@ -85,6 +85,10 @@
 <p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/exercises"><img src="https://img.shields.io/badge/Exercises-1a1b27?style=for-the-badge&logo=leetcode&logoColor=C792EA"/></a>
   <a href="https://github.com/stars/SaraFreitas-dev/lists/c-projects-for-beginners"><img src="https://img.shields.io/badge/C%20Projects%20for%20Beginners-1a1b27?style=for-the-badge&logo=c&logoColor=C792EA"/></a>
+</p>
+
+<p align="center"><b>🤖 AI & Machine Learning</b></p>
+<p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/machine-learning"><img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=C792EA"/></a>
 </p>
 
