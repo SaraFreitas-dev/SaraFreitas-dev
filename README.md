@@ -30,7 +30,7 @@
 ---
 
 
-## 🎓 42 School
+# 🎓 42 School
 
 <p align="center"><sub>My journey through the 42 Common Core — projects, docs and notes</sub></p>
 
