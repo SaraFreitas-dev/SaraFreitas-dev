@@ -1,10 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Hi+there+👋;I'm+Sara+Freitas;42+School+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=100&color=C792EA&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B;I'm+Sara+Freitas;42+School+Student;Working+with+Mainframe+%26+Control-M;Studying+Python+and+C" />
 </p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljOThhM2FmZTJjMjFiMTQ5MTgxMzMzMGNkZmY3ZGUyNTQ5NWQ1NCZjdD1z/f6hnhHkks8bk4jwjh3/giphy.gif" width="120"/>
 </p>
+
+<p align="center">
+  <a href="mailto:sfontes94@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=C792EA"/></a>
+  <a href="https://www.linkedin.com/in/sarafreitasdev/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=C792EA"/></a>
+  <a href="https://www.42network.org"><img src="https://img.shields.io/badge/42%20Intra-sarfreit-1a1b27?style=for-the-badge&logo=42&logoColor=C792EA&labelColor=1a1b27&color=6b3fa0"/></a>
+<br>
+<a href="https://github.com/SaraFreitas-dev?tab=followers"><img src="https://img.shields.io/github/followers/SaraFreitas-dev?style=for-the-badge&logo=github&logoColor=C792EA&label=Followers&labelColor=1a1b27&color=6b3fa0"/></a>
+<a href="https://github.com/SaraFreitas-dev?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/SaraFreitas-dev?style=for-the-badge&logo=github&logoColor=C792EA&label=Stars&labelColor=1a1b27&color=6b3fa0"/></a>
+</p>
+<br>
 
 ---
 
@@ -100,7 +110,7 @@ Click any icon below to explore my projects, documentation, notes, and learning 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=SaraFreitas-dev&theme=tokyonight&hide_border=true"/>
+     <img height="165" src="https://streak-stats.demolab.com?user=SaraFreitas-dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=C792EA&fire=C792EA&currStreakLabel=C792EA"/>
 </p>
 
 ---
