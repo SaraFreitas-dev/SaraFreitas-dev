@@ -110,12 +110,7 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
+![Pacman contribution graph](https://raw.githubusercontent.com/SaraFreitas-dev/viz-pacman-github-profile/output/pacman-contribution-graph-dark.svg)
 
 
 
