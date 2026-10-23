@@ -32,7 +32,7 @@
 
 # 🎓 42 School
 
-<p align="center"><sub>Open-source tools for students across the 42 Network</sub></p>
+<p align="center"><sub>Open-source tools I built for students across the 42 Network</sub></p>
 
 <p align="center">
   <a href="https://github.com/stars/SaraFreitas-dev/lists/practiceshell"><img src="practice_shell.svg" width="180" alt="PracticeShell"/></a>
