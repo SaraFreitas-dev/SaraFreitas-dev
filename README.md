@@ -32,8 +32,6 @@
 
 # 🎓 42 School
 
-### 🚀 Tools I Built for 42 Students
-
 <p align="center"><sub>Open-source tools for students across the 42 Network</sub></p>
 
 <p align="center">
