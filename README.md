@@ -35,7 +35,7 @@
 <p align="center"><sub>Open-source tools for students across the 42 Network</sub></p>
 
 <p align="center">
-  <a href="https://github.com/stars/SaraFreitas-dev/lists/practiceshell"><img src="practiceshell.svg" width="180" alt="PracticeShell"/></a>
+  <a href="https://github.com/stars/SaraFreitas-dev/lists/practiceshell"><img src="practice_shell.svg" width="180" alt="PracticeShell"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SaraFreitas-dev/42_School_Badges"><img src="42_badges.svg" width="180" alt="42 Badges"/></a>
 </p>
